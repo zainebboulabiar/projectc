@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1703870710 source:c:\users\boula\onedrive\documents\prrjetc\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
